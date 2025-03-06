@@ -24,8 +24,8 @@ Ensure you have the following installed on your system:
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/diana-demo.git
-   cd diana-demo
+   git clone https://github.com/your-repo/dianademo.git
+   cd dianademo
    ```
 2. Install the requiements:
    ```bash
